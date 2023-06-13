@@ -8,6 +8,7 @@
   font-size: large;
   color: #282c34;
   line-height: 28px;
+  background-color: antiquewhite;
 }
 
 @media (prefers-reduced-motion: no-preference) {
