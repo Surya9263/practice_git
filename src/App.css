@@ -5,12 +5,9 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-<<<<<<< HEAD
-=======
   font-size: large;
   color: #282c34;
   line-height: 28px;
->>>>>>> 2326c50... changed font color
 }
 
 @media (prefers-reduced-motion: no-preference) {
